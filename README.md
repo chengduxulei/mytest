@@ -1,2 +1,7 @@
 # mytest
-yes 
+yes
+hello
+good
+goodbye
+like
+ 
